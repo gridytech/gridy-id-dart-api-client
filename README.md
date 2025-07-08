@@ -90,7 +90,7 @@ final api = GridyClient()
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://api.gridy.io*
+All URIs are relative to *https://api.gridy.io/prod*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
